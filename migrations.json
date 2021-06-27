@@ -1,0 +1,19 @@
+{
+  "prerun": "# some code here",
+  "directory": "migrations",
+  "history": "migratehistory",
+  "models": [
+    "models.AccountModel",
+    "models.HouseModel",
+    "models.TypeModel",
+    "models.TraitModel",
+    "models.CardTraitModel",
+    "models.DeckModel",
+    "models.DeckCardModel",
+    "models.DeckHouseModel",
+    "models.LobbyModel",
+    "models.PlayerModel",
+    "models.LobbyPlayerModel",
+    "models.CardModel"
+  ]
+}
